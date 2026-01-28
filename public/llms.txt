@@ -1,0 +1,53 @@
+# Treasure Race — Generative Engine Optimization Map
+
+> A events and entertainment business.
+
+---
+
+## Pages
+
+### Home
+https://treasure-race-b5acd1b1.zappy5.app
+
+### Event Formats
+https://treasure-race-b5acd1b1.zappy5.app/event-formats
+
+### Gallery
+https://treasure-race-b5acd1b1.zappy5.app/gallery
+
+### Contact
+https://treasure-race-b5acd1b1.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://treasure-race-b5acd1b1.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://treasure-race-b5acd1b1.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://treasure-race-b5acd1b1.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Treasure Race
+Treasure Race is a business in the events and entertainment industry.
+
+## Target Audience
+- Event Planners
+
+## Industry
+events and entertainment
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://treasure-race-b5acd1b1.zappy5.app/sitemap.xml
+- **Robots.txt**: https://treasure-race-b5acd1b1.zappy5.app/robots.txt

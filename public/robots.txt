@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://treasure-race-b5acd1b1.zappy5.app/sitemap.xml
